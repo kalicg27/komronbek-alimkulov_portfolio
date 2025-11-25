@@ -18,7 +18,7 @@ A full API testing framework including:
 - Custom logging  
 - CI pipeline  
 
-Repository: coming soon
+Repository: https://github.com/kalicg27/ka_api-automation-python
 
 ---
 
