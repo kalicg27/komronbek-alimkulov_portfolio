@@ -90,6 +90,7 @@ Repository: coming soon
 ## Certifications
 - Python (Basic) — HackerRank
 - Java (Basic) - HackerRank
+- Postman API Fundamentals Student Expert - Postman API
 - Rest API (Intermediate) - HackerRank
 - SQL (Basic) - HackerRank
 - SQL (Advanced) - HackerRank
