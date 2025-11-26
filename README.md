@@ -99,7 +99,10 @@ Repository: coming soon
 (Including courses : Technical Support, Software, Programming, Databases, Networking and Storage, Hardware and Operating Systems, Cybersecurity Essentials, Cloud Computing )
 
 ---
+## Education
+- Bachelor of Engineering, Major in Computer Science, Security and Continuity of IT	- WSB Academy
 
+---
 ## Contact
 - LinkedIn: linkedin.com/in/komronbek-alimkulov-00196b218  
 - ArtStation: https://www.artstation.com/kalicg  
