@@ -90,7 +90,9 @@ Repository: coming soon
 ## Certifications
 - Python (Basic) — HackerRank
 - Java (Basic) - HackerRank
+- Rest API (Intermediate) - HackerRank
 - SQL (Basic) - HackerRank
+- SQL (Advance) - HackerRank
 - Introduction to Cybersecurity - Cisco Networking Academy 
 - IT SUPPORT Proffesional - IBM 
 (Including courses : Technical Support, Software, Programming, Databases, Networking and Storage, Hardware and Operating Systems, Cybersecurity Essentials, Cloud Computing )
