@@ -33,7 +33,7 @@ Repository: coming soon
 
 ---
 
-### 3. Performance Testing Project (Locust or JMeter)
+### 3. Performance Testing Project (Locust)
 Performance testing suite including:
 - Load tests  
 - Stress tests  
