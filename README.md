@@ -77,7 +77,7 @@ Repository: coming soon
 - UI automation (Selenium)  
 - Performance testing (Locust, JMeter)  
 - SQL for validation  
-- CI pipelines (GitHub Actions)
+- CI pipelines (Jenkins, GitHub Actions)
 
 ### Game/Technical Tools
 - Unreal Engine 5  
