@@ -29,7 +29,7 @@ Web UI automation implementing:
 - Reusable page components  
 - CI with GitHub Actions  
 
-Repository: coming soon
+Repository: https://github.com/kalicg27/ka_ui-automation-selenium-python
 
 ---
 
@@ -40,7 +40,7 @@ Performance testing suite including:
 - Spike tests  
 - Report generation  
 
-Repository: coming soon
+Repository: https://github.com/kalicg27/ka_performance-testing-locust
 
 ---
 
@@ -50,7 +50,7 @@ A lightweight automation project that:
 - Runs validation queries  
 - Compares database results with API responses  
 
-Repository: coming soon
+Repository: https://github.com/kalicg27/ka_database-validation-python
 
 ---
 
